@@ -883,4 +883,6 @@ school_data_complete.head()
 
 * Different Types of Joins in Pandas (https://www.geeksforgeeks.org/different-types-of-joins-in-pandas/)
 
-* Python Pandas groupby() Result (https://stackoverflow.com/questions/17666075/python-pandas-groupby-result)
+* python pandas groupby() result (https://stackoverflow.com/questions/17666075/python-pandas-groupby-result)
+
+* pandas.DataFrame.merge (pandas.DataFrame.merge)
