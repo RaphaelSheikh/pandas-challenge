@@ -1,6 +1,9 @@
 # PyCitySchools
 Pandas, Pandas, Pandas
 
+![image](https://github.com/RaphaelSheikh/pandas-challenge/assets/166172978/22dc6aeb-c792-439a-9cd7-59943eee4a9c)
+
+
 # Background
 In my role as the Chief Data Scientist for the city's school district, I have been tasked with analyzing district-wide standardized test results to assist the school board and mayor in making strategic decisions regarding future school budgets and priorities. 
 
