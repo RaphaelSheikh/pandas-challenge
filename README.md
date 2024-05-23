@@ -847,8 +847,6 @@ school_data_complete.head()
 </table>
 
 ## Scores by School Type
-<style type="text/css">
-</style>
 <table id="T_ee088">
   <thead>
     <tr>
