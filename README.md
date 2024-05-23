@@ -110,18 +110,6 @@ school_data_complete.head()
       <th id="T_fd15b_level0_col7" class="col_heading level0 col7" >% Passing Reading</th>
       <th id="T_fd15b_level0_col8" class="col_heading level0 col8" >% Overall Passing</th>
     </tr>
-    <tr>
-      <th class="index_name level0" >school_name</th>
-      <th class="blank col0" >&nbsp;</th>
-      <th class="blank col1" >&nbsp;</th>
-      <th class="blank col2" >&nbsp;</th>
-      <th class="blank col3" >&nbsp;</th>
-      <th class="blank col4" >&nbsp;</th>
-      <th class="blank col5" >&nbsp;</th>
-      <th class="blank col6" >&nbsp;</th>
-      <th class="blank col7" >&nbsp;</th>
-      <th class="blank col8" >&nbsp;</th>
-    </tr>
   </thead>
   <tbody>
     <tr>
@@ -401,18 +389,6 @@ school_data_complete.head()
       <th id="T_5a531_level0_col6" class="col_heading level0 col6" >% Passing Math</th>
       <th id="T_5a531_level0_col7" class="col_heading level0 col7" >% Passing Reading</th>
       <th id="T_5a531_level0_col8" class="col_heading level0 col8" >% Overall Passing</th>
-    </tr>
-    <tr>
-      <th class="index_name level0" >school_name</th>
-      <th class="blank col0" >&nbsp;</th>
-      <th class="blank col1" >&nbsp;</th>
-      <th class="blank col2" >&nbsp;</th>
-      <th class="blank col3" >&nbsp;</th>
-      <th class="blank col4" >&nbsp;</th>
-      <th class="blank col5" >&nbsp;</th>
-      <th class="blank col6" >&nbsp;</th>
-      <th class="blank col7" >&nbsp;</th>
-      <th class="blank col8" >&nbsp;</th>
     </tr>
   </thead>
   <tbody>
@@ -883,4 +859,6 @@ school_data_complete.head()
 
 * Different Types of Joins in Pandas (https://www.geeksforgeeks.org/different-types-of-joins-in-pandas/)
 
-* Python Pandas groupby() Result (https://stackoverflow.com/questions/17666075/python-pandas-groupby-result)
+* python pandas groupby() result (https://stackoverflow.com/questions/17666075/python-pandas-groupby-result)
+
+* pandas.DataFrame.merge ([pandas.DataFrame.merge](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html))
