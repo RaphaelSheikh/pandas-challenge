@@ -731,7 +731,7 @@ school_data_complete.head()
   </thead>
   <tbody>
     <tr>
-      <th id="T_7d219_level0_row0" class="row_heading level0 row0" ><$584</th>
+      <th id="T_7d219_level0_row0" class="row_heading level0 row0" ><$585</th>
       <td id="T_7d219_row0_col0" class="data row0 col0" >83.36</td>
       <td id="T_7d219_row0_col1" class="data row0 col1" >83.96</td>
       <td id="T_7d219_row0_col2" class="data row0 col2" >93.70</td>
@@ -739,7 +739,7 @@ school_data_complete.head()
       <td id="T_7d219_row0_col4" class="data row0 col4" >90.64</td>
     </tr>
     <tr>
-      <th id="T_7d219_level0_row1" class="row_heading level0 row1" >$585-629</th>
+      <th id="T_7d219_level0_row1" class="row_heading level0 row1" >$585-630</th>
       <td id="T_7d219_row1_col0" class="data row1 col0" >79.98</td>
       <td id="T_7d219_row1_col1" class="data row1 col1" >82.31</td>
       <td id="T_7d219_row1_col2" class="data row1 col2" >79.11</td>
@@ -747,7 +747,7 @@ school_data_complete.head()
       <td id="T_7d219_row1_col4" class="data row1 col4" >70.94</td>
     </tr>
     <tr>
-      <th id="T_7d219_level0_row2" class="row_heading level0 row2" >$630-644</th>
+      <th id="T_7d219_level0_row2" class="row_heading level0 row2" >$630-645</th>
       <td id="T_7d219_row2_col0" class="data row2 col0" >77.82</td>
       <td id="T_7d219_row2_col1" class="data row2 col1" >81.30</td>
       <td id="T_7d219_row2_col2" class="data row2 col2" >70.62</td>
@@ -755,7 +755,7 @@ school_data_complete.head()
       <td id="T_7d219_row2_col4" class="data row2 col4" >58.84</td>
     </tr>
     <tr>
-      <th id="T_7d219_level0_row3" class="row_heading level0 row3" >$645-675</th>
+      <th id="T_7d219_level0_row3" class="row_heading level0 row3" >$645-680</th>
       <td id="T_7d219_row3_col0" class="data row3 col0" >77.05</td>
       <td id="T_7d219_row3_col1" class="data row3 col1" >81.01</td>
       <td id="T_7d219_row3_col2" class="data row3 col2" >66.23</td>
